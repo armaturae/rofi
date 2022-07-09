@@ -5,11 +5,11 @@
 - clean: ['~']
 
 - link:
-    ~/.local/bin/rofi-pass: external/rofi-pass/rofi-pass
-    ~/.local/bin/addpass: external/rofi-pass/addpass
-    ~/.config/rofi-pass/config: external/rofi-pass/config.example
-    ~/.config/rofi/config.rasi: rofi/config.rasi
-    ~/.config/rofi/themes/slate.rasi: rofi/themes/slate.rasi
+    ~/.local/bin/rofi-pass: rofi-pass/rofi-pass
+    ~/.local/bin/addpass: rofi-pass/addpass
+    ~/.config/rofi-pass/config: rofi-pass/config.example
+    ~/.config/rofi/config.rasi: config.rasi
+    ~/.config/rofi/themes/slate.rasi: themes/slate.rasi
 
 - create:
     - ~/.config/rofi
