@@ -1,4 +1,7 @@
 /* rofi.theme: /home/andecy/.config/rofi/themes/slate.rasi */
+
+@theme "themes/slate"
+
 configuration {
  combi-modi: "window,drun,ssh";
  font: "firacode 22px";
@@ -14,6 +17,5 @@ configuration {
 
 window {
   width: 50%;
+  height: 50%;
  }
-
-@theme "themes/slate"
