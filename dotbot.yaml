@@ -9,7 +9,7 @@
     ~/.local/bin/addpass: rofi-pass/addpass
     ~/.config/rofi-pass/config: rofi-pass/config.example
     ~/.config/rofi/config.rasi: config.rasi
-    ~/.config/rofi/themes/slate.rasi: themes/slate.rasi
+    ~/.config/rofi/themes/dracula.rasi: themes/dracula.rasi
 
 - create:
     - ~/.config/rofi
